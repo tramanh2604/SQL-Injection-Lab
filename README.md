@@ -23,3 +23,5 @@ This lab contains multiple vulnerability levels designed topractice SQL injectio
 
 ## 📚 Full Writeup on Notion
 [Write-up on Notion](https://www.notion.so/SQL-INJECTION-WRITEUP-29d991c9962d80a4a714d58152fc1d0f?source=copy_link)
+___
+**Fire up the lab and happy hacking!** 🔥
